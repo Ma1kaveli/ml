@@ -1,0 +1,6 @@
+train: 'D:\proj\ai\lab_1\data\images\train'
+val: 'D:\proj\ai\lab_1\data\images\test'
+test: 'D:\proj\ai\lab_1\data\images\test'
+
+nc: 6
+names: ['ace','king','queen','jack','ten','nine']
