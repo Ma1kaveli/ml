@@ -3,3 +3,4 @@ card_dataset
 runs
 venv
 *.pt
+icp_edu

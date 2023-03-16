@@ -1,4 +1,4 @@
-name: icp_edu
+name: icp
 channels:
   - plotly
   - defaults
@@ -137,7 +137,7 @@ dependencies:
       - pkgutil-resolve-name==1.3.10
       - pluggy==0.9.0
       - plyfile==0.7
-      - pyoints==0.2.0
+      - pyoints==0.2.0a1
       - pyparsing==2.3.1
       - pyrsistent==0.19.3
       - pytest==4.4.0
@@ -148,4 +148,3 @@ dependencies:
       - setuptools==40.8.0
       - six==1.12.0
       - zipp==3.14.0
-prefix: /home/cias_admin/miniconda3/envs/icp_edu
